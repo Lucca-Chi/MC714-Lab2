@@ -178,7 +178,6 @@ class Node:
             self.mutex.receive_reply(
 
                 message.sender,
-                message.timestamp
 
             )
 
