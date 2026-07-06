@@ -1,7 +1,5 @@
 """
-run.py
-
-Inicialização de um nó distribuído.
+Inicialização do programa.
 
 Uso:
 
